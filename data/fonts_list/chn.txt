@@ -1,0 +1,15 @@
+./data/fonts/chn/HYPPTiJ.ttf
+./data/fonts/chn/HYQingKongTiW.ttf
+./data/fonts/chn/HYShiGuangTiW.ttf
+./data/fonts/chn/HYWaiWaiTiJ.ttf
+./data/fonts/chn/SourceHanSans-Normal.ttf
+./data/fonts/chn/仿宋_GB2312.ttf
+./data/fonts/chn/华文隶书.TTF
+./data/fonts/chn/宋体_GB18030+%26+新宋体_GB18030.ttc
+./data/fonts/chn/微软vista黑体.ttf
+./data/fonts/chn/方正楷体GBK.ttf
+./data/fonts/chn/方正粗圆简体.ttf
+./data/fonts/chn/方正细黑一简体.ttf
+./data/fonts/chn/方正隶书简体.ttf
+./data/fonts/chn/楷体_GB2312.ttf
+./data/fonts/chn/造字工房尚黑G0v1纤细长体.otf

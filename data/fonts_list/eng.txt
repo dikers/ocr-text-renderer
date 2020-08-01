@@ -1,0 +1,9 @@
+./data/fonts/eng/Hack-Regular.ttf
+./data/fonts/chn/msyh.ttc
+./data/fonts/chn/仿宋_GB2312.ttf
+./data/fonts/chn/宋体_GB18030+新宋体_GB18030.ttc
+./data/fonts/chn/微软vista黑体.ttf
+./data/fonts/chn/方正楷体GBK.ttf
+./data/fonts/chn/方正粗圆简体.ttf
+./data/fonts/chn/方正细黑一简体.ttf
+./data/fonts/chn/楷体_GB2312.ttf
