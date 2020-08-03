@@ -8,7 +8,7 @@ def parse_args():
 
     parser.add_argument('--num_img', type=int, default=20, help="Number of images to generate")
 
-    parser.add_argument('--length', type=int, default=10,
+    parser.add_argument('--length', type=int, default=18,
                         help='Chars(chn) or words(eng) in a image. For eng corpus mode, default length is 3')
 
     parser.add_argument('--clip_max_chars', action='store_true', default=False,
@@ -16,7 +16,7 @@ def parse_args():
                              'should less then the width of last CNN layer.')
 
     parser.add_argument('--img_height', type=int, default=32)
-    parser.add_argument('--img_width', type=int, default=256,
+    parser.add_argument('--img_width', type=int, default=280,
                         help="If 0, output images will have different width")
 
     parser.add_argument('--chars_file', type=str, default='./data/chars/chn.txt',
