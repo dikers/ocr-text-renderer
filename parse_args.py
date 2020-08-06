@@ -8,7 +8,7 @@ def parse_args():
 
     parser.add_argument('--num_img', type=int, default=20, help="Number of images to generate")
 
-    parser.add_argument('--length', type=int, default=18,
+    parser.add_argument('--length', type=int, default=12,
                         help='Chars(chn) or words(eng) in a image. For eng corpus mode, default length is 3')
 
     parser.add_argument('--clip_max_chars', action='store_true', default=False,

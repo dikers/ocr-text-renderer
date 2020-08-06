@@ -15,22 +15,22 @@ pip3 install -r requirements.txt
 
 ## 修改配置文件
 
-修改 `configs/default.yaml` 文件里面的内容
+修改 `configs/default.yaml` 文件里面的内容， 具体参数含义，参考里面的注释
 
 
 ## 添加字体文件
 
-`data/fonts` 字体文件存放目录
+`data/fonts`   字体文件存放目录
 
 `data/fonts_list` 指定使用那些字体
 
 
 ## 添加数据文件
 
-将文本文件添加到 `data/corpus/` 目录西面
+将文本文件添加到 `data/corpus/` 目录里面
 
 
 ## 生成图片和label 文件
 ```
-python3 main.py --num_img=10
+python3 main.py --num_img=100
 ```
